@@ -22,10 +22,3 @@
 ### 📊 GitHub Stats
 ![Ghidorah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidorah-618&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidorah-618&layout=compact&theme=dark)
-
----
-
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [X / Twitter](https://x.com/yourhandle)
-- ✉️ **Email:** your.email@example.com
